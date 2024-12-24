@@ -1,0 +1,45 @@
+Corporate/CAS/OneIT/EBA
+
+ADP Champs
+
+ADPChampsEAS@cognizant.com
+
+ADPChampsADM@cognizant.com
+
+SOAdminTST@cognizant.com
+
+ADPChampsCDBINT@cognizant.com
+
+CDBAIAPDP@cognizant.com
+
+CDBAIAPDP@cognizant.com
+
+ADPChampsCDBCDE@cognizant.com
+
+ADPChampsCIS@cognizant.com
+
+wmbpo@cognizant.com
+
+STAFFMGMTSRVCORPIN@cognizant.com
+
+Primary Point-of-Contact for Respective Business Units
+
+Practice/Department
+
+EAS
+
+ADM and MDU
+
+QE&A
+
+CDB INT
+
+CDB AIA
+
+CDB CCP
+
+CDE/OneDE
+
+CIS/Cognizant Security
+
+CDO

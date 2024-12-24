@@ -1,0 +1,37 @@
+𝐓𝐢𝐠𝐞𝐫 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬
+
+𝐏𝐲𝐭𝐡𝐨𝐧 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬:
+
+1, How would you reverse a string without using Python slicing?
+2, Write a Python program to find the second-highest number in a list of integers?
+3, How can you generate an email ID from the first and second names in Python?
+4, Can you explain how decorators work in Python?
+5, How do you handle missing data (NaN/Null) in a dataset in Python?
+
+𝐒𝐐𝐋 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬:
+
+1, How would you differentiate between a Primary Key, a Natural Key, and a Surrogate Key in a database schema?
+2, Given two tables, how would you find the count of records using INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL OUTER JOIN?
+3, Write a SQL query to delete the 10th highest salary from the employee table?
+4, How would you find the top 3 highest-paid employees in an organization?
+5, How can you optimize an SQL query?
+6, Write a SQL query to retrieve unique records without using DISTINCT or GROUP BY?
+7, Write a SQL query to calculate the average salary of employees in each department?
+8, Explain how you would handle NULL values in JOIN operations in SQL?
+
+𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬:
+
+1, What is a PCollection in the context of Data Engineering?
+2, What is the source of your data in a typical ETL pipeline?
+3, What do you understand by partitioning and clustering in a database context?
+4, What is the difference between ETL (Extract, Transform, Load) and ELT (Extract, Load, Transform)?
+5, What is incremental loading in Delta Tables, and how would you implement it?
+6, How do you handle data skew in distributed systems like Spark?
+7, What is a Broadcast Join in Spark? Can you provide a scenario where it is beneficial?
+8, How would you optimize Spark jobs and improve performance in a data pipeline?
+9, What is the difference between a DataFrame and an RDD in Spark?
+10, Can you explain the architecture of Spark and how it processes data in parallel?
+11, What is the role of data vacuuming in Delta Lake?
+12, How would you implement pipeline error handling in Azure Data Factory (ADF)?
+13, How do you handle memory-related issues in Spark when working with large datasets?
+14, What strategies would you use to debug a failed pipeline in Azure Data Factory?

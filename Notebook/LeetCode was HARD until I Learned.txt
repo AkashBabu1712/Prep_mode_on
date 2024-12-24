@@ -1,0 +1,9 @@
+LeetCode was HARD until I Learned these 15 Patterns:
+	1. Prefix sum problem
+	2. Two pointers approach
+	3. Sliding Window pattern
+	4. Fast and slow pointers
+	5. Linked List in-place reversal
+	6. Monotonic stack
+	7. Top k element pattern
+	8. 

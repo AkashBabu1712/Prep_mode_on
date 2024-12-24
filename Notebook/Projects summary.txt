@@ -1,0 +1,11 @@
+Data-Driven Insights for Maximizing Revenue in Taxi Booking Sector:
+Analyzed extensive taxi trip data to understand how payment methods influence fare amounts, using EDA, statistical analysis, and data visualization. Derived actionable insights to guide strategies for maximizing revenue while ensuring a positive customer experience.
+
+Health and Demographics Analysis Project:
+Conducted comprehensive analysis of health and demographic indicators to uncover patterns and correlations. Utilized statistical methods and data visualization tools to inform public health policies by examining factors like weight, age, cholesterol levels, and smoking habits.
+
+Obesity Risk Prediction - Kaggle Competition:
+Developed predictive models to assess obesity risk using machine learning on demographic, lifestyle, and health data. Leveraged techniques in data analysis and feature engineering to enhance prediction accuracy.
+
+Social Networking API Development
+Developed a social networking API using Django Rest Framework, featuring user login/signup, search functionality, friend request management, and friend listings. Ensured case-insensitive email login and authenticated access to all APIs except signup and login. Implemented pagination and Docker containerization for deployment.

@@ -1,0 +1,47 @@
+𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 
+--------------
+
+𝗔𝗽𝗮𝗰𝗵𝗲 𝗦𝗽𝗮𝗿𝗸
+- How would you handle skewed data in a Spark job to prevent performance issues?
+- What is the difference between the Spark Session and Spark Context? When should each be used?
+- How do you handle backpressure in Spark Streaming applications to manage load effectively?
+
+𝗔𝗽𝗮𝗰𝗵𝗲 𝗞𝗮𝗳𝗸𝗮
+- How do you handle exactly-once semantics in Kafka Streams, and what are the typical challenges?
+- What is the role of ZooKeeper in Kafka, and what are the implications of moving to KRaft?
+- How do you handle data retention and deletion policies in Kafka for time-based and size-based criteria?
+
+𝗔𝗽𝗮𝗰𝗵𝗲 𝗔𝗶𝗿𝗳𝗹𝗼𝘄
+- What is an Airflow XCom, and how would you use it to enable data sharing between tasks?
+- How can you set up task-level retries and backoff strategies in Airflow?
+- How do you use the Airflow REST API to trigger DAGs or monitor their status externally?
+
+𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗶𝗻𝗴
+- How do you optimize join operations in a data warehouse to improve query performance?
+- What is a slowly changing dimension (SCD), and what are different ways to implement it in a data warehouse?
+- How do surrogate keys benefit data warehouse design over natural keys?
+
+𝗖𝗜/𝗖𝗗
+- What are blue-green deployments, and how would you use them for ETL jobs?
+- How do you implement rollback mechanisms in CI/CD pipelines for data integration processes?
+- What strategies do you use to handle schema evolution in data pipelines as part of CI/CD?
+
+𝗦𝗤𝗟
+- How would you write a query to calculate a cumulative sum or running total within a specific partition in SQL?
+- How do window functions differ from aggregate functions, and when would you use them?
+- How do you identify and remove duplicate records in SQL without using temporary tables?
+
+𝗣𝘆𝘁𝗵𝗼𝗻
+- How do you manage memory efficiently when processing large files in Python?
+- What are Python decorators, and how would you use them to optimize reusable code in ETL processes?
+- How do you use Python’s built-in logging module to capture detailed error and audit logs?
+
+𝗔𝘇𝘂𝗿𝗲 𝗗𝗮𝘁𝗮𝗯𝗿𝗶𝗰𝗸𝘀
+- How do you configure cluster autoscaling in Databricks, and when should it be used?
+- How do you implement data versioning in Delta Lake tables within Databricks?
+- How would you monitor and optimize Databricks job performance metrics?
+
+𝗔𝘇𝘂𝗿𝗲 𝗗𝗮𝘁𝗮 𝗙𝗮𝗰𝘁𝗼𝗿𝘆
+- What are tumbling window triggers in Azure Data Factory, and how do you configure them?
+- How would you enable managed identity-based authentication for linked services in ADF?
+- How do you create custom activity logs in ADF for monitoring data pipeline execution?

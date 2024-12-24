@@ -1,0 +1,14 @@
+What need to check in Data initially?
+
+1. Handling Missing Data
+
+2. Outlier Detection and Handling
+
+3. Data Scaling and Transformation
+
+4. Encoding Categorical Variables
+
+5. Handling Duplicates
+
+6. Dealing with Inconsistent Data
+

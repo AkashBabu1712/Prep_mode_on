@@ -1,0 +1,167 @@
+					Computer Network
+					-----------------
+A computer network is a set of computers sharing resources located on or provided by network nodes. Computers use common communication protocols over digital interconnections to communicate with each other.
+
+Types of Computer - 
+	1. PAN(Personal Area N/w)
+	2. LAN(Local Area N/w)
+	3. MAN(Metropolitan Area N/w)
+	4. WAN(Wide Area N/w)
+-----------------------------------------
+
+IP Address - 
+	 - IP stands for "Internet Protocol,"
+	   which is the set of rules governing
+	   the format of data sent via the
+	   internet or local network.
+
+	-  In essence, IP addresses are the
+	   identifier that allows information to
+	   be sent between devices on a
+	   network: they contain location
+	   information and make devices
+	   accessible for communication.
+-----------------------------------------------------
+
+Types of IP Address - 
+
+	Public IP Address - https://whatismyipaddress.com/
+
+	Private IP Address - Windows Key+R -> cmd -> ipconfig/ifconfig
+------------------------------------------------------------------------
+
+
+Types of IP Versions - 
+
+	There are two versions of IP that
+	currently coexist in the global
+	Internet:
+- IP version 4 (IPv4)
+- IP version 6 (IPv6)
+
+	IP addresses are made up of binary
+	values and drive the routing of all
+	data over the Internet.
+
+IPv4 addresses are 32 bits long, and
+IPv6 addresses 128 bits long.
+--------------------------------------------------------------
+
+Port Numbers - 
+A port number is a way to identify a specific process to which an internet or other network message is to be forwarded when it arrives at a server.
+
+Total Port Number 0-65535
+Example: netstat -a
+
+NETWORK PORTS
+
+Well-known Ports
+
+	0 - 1023
+
+Registered Ports
+
+	1024 - 49151
+
+Dynamic Ports
+
+	49152 - 65565
+
+------------------------------------------------------------------
+
+Communication with devices required - 
+
+IP Address
+Ports
+Protocol
+
+-----------------------------------------------
+
+WHAT IS PROTOCOL?
+	Network protocols are a set of rules outlining how connected devices 	communicate across a network to exchange information easily and safely.
+
+	Protocols serve as a common language for devices to enable communication 	irrespective of differences in software, hardware, or internal processes.
+	Example: https, http, ftp, ssh, telnet etc.
+
+PROTOCOL -> Message -> Protocol 
+(Rules)
+
+-------------------------------------------------------------
+
+What is OSI Model?
+
+The Open Systems Interconnection (OSI) model describes seven layers that computer systems use to communicate over a network. It was the first standard model for network communications, adopted by all major computer and telecommunication companies in the early 1980s.
+
+OSI Model Explained: The OSI 7 Layers
+
+7.Application Layer - Human-computer interaction layer, where
+applications can access the network services
+
+6.Presentation Layer - Ensures that data is in a usable format and is
+where data encryption occurs
+
+5.Session Layer - Maintains connections and is responsible for
+controlling ports and sessions
+
+4.Transport Layer - Transmits data using transmission protocols
+including TCP and UDP
+
+3.Network Layer - Decides which physical path the data will take
+
+2.Data Link layer - Defines the format of data on the network
+
+1.Physical Layer - Transmits raw bit stream over the physical
+medium
+
+------------------------------------------------------------------
+
+Network Devices - 
+
+1.ROUTER - 
+	A router is a device that connect two or more packet-switched networks or 	subnetworks.
+
+It serves two primary functions:
+managing traffic between these networks by forwarding data packets to their intended IP addresses, and allowing multiple devices to use the same Internet
+connection.
+
+Why we use router?
+1.More than 1 different network
+2.Firewall
+3.DHCP(Automated)
+
+2.Switch -
+	witches are networking devices operating at layer 2 or a data link layer 	of the OSI model. They connect devices in a network and use packet 	switching to send, receive or forward data packets or data frames over 	the network.
+
+--------------------------------------------------------------------------
+
+Client Server Model - 
+
+1.The client/server model is an architecture that distributes applications between servers and client computers.
+
+2.Server: System that provides services such as Windows Server2008 R2.
+
+3.Client: Device that requests services such as Windows 7
+
+------------------------------------------------------------------------
+
+				CCNA - ()
+
+WHAT IS CISCO PACKET TRACER ?
+Cisco Packet Tracer is a comprehensive, networking technology teaching and learning program that offers a unique combination of realistic simulation
+and visualization experiences, assessment and activity authoring capabilities, and opportunities for multiuser collaboration and
+competition.
+
+ROUTER CONFIGURATION MODES
+
+- User EXEC mode (Router>)
+
+- Privileged EXEC Mode (Router#)
+
+- Global configuration Mode
+
+- Router(config)#
+
+- Specific configuration Modes
+
+- Router(config-subif)#
+

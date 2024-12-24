@@ -1,0 +1,27 @@
+What is Linux?
+	- Open source OS 
+	- Free to use
+	- Kernel based
+	- 
+----------------------------------
+
+History of Linux - 
+
+	Birthdate: August 1991
+	Developed by: Linux Torvalds
+	Designed for: Intel based PC
+	Major Components: Kernel, Environment and File Structure
+	Purpose: For Fun
+	Mascot for Linux: Tux(Penguin)
+	Environment: Gnome Desktop Environment
+
+Features -
+
+	Multiuser capability
+	Multitasking
+	Portability
+	Security
+	Live CD/USB
+	GUI
+	Application Support
+	File System

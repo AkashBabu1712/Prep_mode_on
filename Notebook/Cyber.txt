@@ -1,0 +1,78 @@
+Cyber
+Security
+
+Network Securlty-
+. Firewalls and Intrusion Prevention Systems
+. Virtual Private Network (VPN)
+
+Access Control and Authentication
+Network Segmentation
+Encryption
+Network Monitoring and Logging
+Patch Management
+DNS Security
+DDoS Mitigation
+Wireless Network Security
+
+System Security-
+. Operating System Hardening
+. Regular Security Patching and Updates
+. Antivirus and Anti-Malware Software
+Host-based Firewalls
+Secure Boot and BIOS/UEFI Protection
+. System Backup and Disaster Recovery
+Endpoint Detection and Response (EDR) Systems
+
+Mobile Security-
+Device Encryption
+. Biometric Authentication
+Strong Passcodes and Screen Locks
+App Sandboxing and Isolation
+Secure Boot and Bootloader Protection
+Regular Security Updates and Patch Management
+Secure Mobile Browsing Practices
+. Backup and Recovery Plans for Mobile Data
+
+Data Security-
+Access Control and Authorization
+Data Encryption
+Regular Data Backups and Recovery Plans
+Data Masking and Anonymization
+Data Loss Prevention (DLP) Measures
+Secure Data Disposal and Destruction
+Multi-Factor Authentication (MFA)
+
+
+Application Security-
+Secure Code Development Practices
+Regular Security Code Reviews
+· Input Validation and Data Sanitization
+Authentication and Authorization Mechanisms
+Session Management and Protection
+. Encryption of Sensitive Data
+Cross-Site Scripting (XSS) Protection
+Secure File Uploads and Downloads
+Error Handling and Logging
+API Security and Access Controls
+. Compliance with Application Security Standards
+
+Risk Governance and Compliance-
+. Regular Risk Assessments and Identification of Risks
+. Risk Tolerance and Appetite Definition
+. Decision-Making Processes
+. Monitoring and Reporting
+. Regular Compliance Audits and Assessments
+. Periodic Review and Update of Compliance Measures
+
+Advance Thread Protection-
+Behavioral Analysis
+Machine Learning and Al
+Sandboxing
+Network Traffic Analysis
+Endpoint Detection and Response (EDR)
+Threat Intelligence Integration
+Zero Trust Architecture
+Deception Technology
+Advanced Authentication and Access Control
+Threat Hunting
+Security Automation and Orchestration

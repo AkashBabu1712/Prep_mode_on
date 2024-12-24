@@ -1,0 +1,49 @@
+What are you looking for in your next job? 
+In my next job I am looking for. The rule and the data science. So. In the future, I want to become a data science engineer. Where I can work on data sets with different domains and different backgrounds. Handle in. And and. And Health Organization. Currently, the organization in the. Goodness. To grow. To make decisions for the growth of the organization. And. I'm looking for some working on AI based projects. Yeah, that's it. All about my. Next job.
+
+
+Can you please tell me a bit about yourself? 
+Hello, I'm Akash, a Programmer Analyst with over 2 years of experience in IAM with SailPoint Technology. My professional journey has been centered around  implementing and managing SailPoint Identity IQ for a large-scale enterprise and enhancing operational effectiveness.
+
+I hold a B. Tech in Computer Science and Engineering from Dr. APJ Kalam Technical University, where I secured a 7.31 CGPA. During my time at Cognizant Technology Solutions, I have been involved in Life Science and Banking projects. My expertise lies in implementing and managing IAM solutions, particularly with SailPoint Identityiq. I have a background in provisioning and deprovisioning, identity mapping, and handling tasks like account aggregation and identity refresh. I'm also skilled in troubleshooting user issues, including PAM account credentials.
+
+Additionally, I have a strong foundation in data science, having assisted in data collection, cleansing, and preprocessing tasks, applied statistical analysis and machine learning techniques to derive actionable insights, and developed predictive models. My personal projects, such as analyzing taxi trip data to maximize revenue and developing predictive models for obesity risk, reflect my ability to apply data science skills to real-world problems.
+
+In my spare time, I contribute to the tech community through my GitHub and Medium profiles, and I also participate in Kaggle competitions to hone my data science and machine learning skills further.
+
+
+
+Tell me about a time when you had to develop a new skill. How did you approach the learning process? 
+In my current role as a Programmer Analyst, I had to develop advanced feature engineering techniques to enhance data accuracy for a complex machine learning project. Drawing on my prior experience in IAM and data security, where I honed my problem-solving and analytical skills, I approached this challenge by diving deep into online courses and leveraging resources like Python libraries and technical forums. This proactive learning, coupled with my background in Java and data integration, allowed me to optimize our models significantly, leading to a 15% improvement in model accuracy. The positive feedback I received from my team inspired me to continue refining these skills, which I’m eager to apply more extensively in future roles.
+
+
+A stakeholder says "We have one million customers. You have only surveyed one thousand. How can this tell us anything useful?" What do you respond? 
+You are absolutely correct. But here we understand like reaching out to every customer is not possible, so we have corrected the readers. And make their feet, make their feedbacks. And after that we. We apply statistics and probability in the. For data set. To predict. Surfeit result. So. We use, uh, sampling techniques. So sampling techniques. And inferencing and description. Discretional statistics so. Yeah. After that, uh. We don't. The statistics. Question on applied. With the help of. With the help of. Machine learning algorithm. We applied to models. And. Yet then we. Visualize it through. Charts and graphs something.
+
+
+Tell me about a time you made a mistake. How did you communicate that mistake? 
+
+During a data analysis project in my current role, I mistakenly used an outdated dataset, which led to incorrect insights in the initial report. Realizing the error, I immediately communicated the mistake to my team and took responsibility for it. I quickly corrected the dataset and reran the analysis, ensuring the accuracy of the new findings. I also implemented a more rigorous data validation process to prevent similar issues in the future. This experience taught me the importance of double-checking data sources and reinforced my commitment to transparency and accountability in my work.
+
+--------------------------------------------------------------
+
+Please tell me why you would be a good fit for this role. 
+I believe I would be a great fit for this role because of my strong background in data-driven solutions, where I've successfully developed and optimized machine learning models to enhance business outcomes. With over 2+ years of experience as a Programmer Analyst, I've honed my skills in data preprocessing, feature engineering, and statistical analysis, all of which are critical for effective data science work. My experience in IAM and data security has also given me a unique perspective on data integrity and accuracy, ensuring that the models I develop are robust and reliable. I’m eager to bring my technical expertise, problem-solving abilities, and passion for continuous learning to your team, contributing to innovative and impactful data science projects.
+
+
+Describe a situation when you disagreed with someone at work. What did you do, and what was the result? 
+
+In a recent data science project, I disagreed with a colleague over the choice of a model for predicting customer churn. While they favored a complex ensemble method, I advocated for a simpler logistic regression model due to its interpretability and lower risk of overfitting with our limited dataset. I presented my case by providing a comparative analysis of both models, including performance metrics and potential trade-offs. After discussing the merits and drawbacks openly, we decided to implement both models and evaluate their results. Ultimately, the logistic regression model proved to be more effective, aligning with our project goals and providing clearer insights. This experience underscored the value of data-driven decision-making and collaborative problem-solving.
+
+
+You start working at a new organization, and all of their data is stored in spreadsheets. Why would it be preferable for them to use structured databases? 
+Transitioning from spreadsheets to structured databases offers numerous advantages from a data science perspective. Structured databases provide a more scalable, efficient, and secure way to manage large volumes of data compared to spreadsheets. They support complex queries and data relationships, which can enhance data retrieval and analysis. Databases also enable better data integrity through constraints and normalization, reducing the risk of inconsistencies and errors. Additionally, they facilitate advanced analytics, reporting, and integration with other tools and systems, ultimately leading to more accurate insights and data-driven decision-making. This structured approach can significantly improve data management efficiency and support sophisticated data science workflows.
+
+
+Using any programming language, what are some of the basic functions you can use to clean and organize a data table? 
+In data science, basic functions for cleaning and organizing a data table include methods for handling missing values, such as dropna() and fillna() in Python's pandas library, which allow for the removal or imputation of missing data. To ensure consistency, functions like astype() can be used to convert data types, while str.strip() helps in standardizing text fields by removing unwanted whitespace. For organizing data, sort_values() and groupby() assist in ordering and aggregating data, respectively, and merge() or join() can be employed to combine tables based on common keys. Additionally, duplicated() and drop_duplicates() are useful for identifying and removing duplicate entries, ensuring the dataset remains clean and well-structured for analysis.
+
+
+Imagine you've run into a challenge with an analysis and you aren't sure how to address it. What are some steps you might take to seek help? 
+When faced with a challenge in data analysis, I first start by thoroughly reviewing my approach and identifying any gaps or inconsistencies in the data or methodology. Next, I consult relevant documentation and online resources to see if similar issues have been addressed. If the problem persists, I seek input from colleagues or experts in the field by sharing a clear description of the issue, including any data samples and code snippets, to facilitate more effective troubleshooting. Additionally, I might engage in discussions on data science forums or communities to gain diverse perspectives and potential solutions. This systematic approach ensures that I leverage all available resources to address the challenge effectively.
+

@@ -1,0 +1,18 @@
+Network troubleshooting commands:
+-------------------------------------
+
+1. ping IP address(127.0.0.1)
+
+2. ipconfig/ ipconfig /all -- to check user's IP
+
+3. ncpa.cpl - to open network connections
+
+4. 
+
+5. nslookup 8.8.8.8 -- Nslookup IP Address (IP to Domain Name)
+
+6. nslookup domainname -- Nslookup domain name (Domain to IP Address)
+
+7. nslookup -type=mx domainname - MX record lookup will find the mail server that is responsible for accepting emails for the domain
+
+8. 

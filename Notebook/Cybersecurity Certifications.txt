@@ -1,0 +1,75 @@
+Cybersecurity Certifications
+
+1. CEH - Certified Ethical Hacker
+2. CompTIA 
+3. GSEC
+4. CISA
+5. CISSP
+
+
+Use Python and Django To Create Your Own API In No Time With The Django Rest Framework!
+
+akash@CyberPhantom MINGW64 /c/djangoapi/djangoapi
+$ git config --global user.name "akash"
+
+akash@CyberPhantom MINGW64 /c/djangoapi/djangoapi
+$ git config --global user.email "kumar111aakash.in@gmail.com"
+
+akash@CyberPhantom MINGW64 /c/djangoapi/djangoapi
+$ git config --global push.default matching
+
+akash@CyberPhantom MINGW64 /c/djangoapi/djangoapi
+$ git config --global alias.co checkout
+
+akash@CyberPhantom MINGW64 /c/djangoapi/djangoapi
+$ git init
+Initialized empty Git repository in C:/djangoapi/djangoapi/.git/
+
+akash@CyberPhantom MINGW64 /c/djangoapi/djangoapi (master)
+$
+
+
+akash@CyberPhantom MINGW64 /c/djangoapi/djangoapi (master)
+$ mkdir ~/.ssh
+mkdir: cannot create directory ‘/c/Users/akash/.ssh’: File exists
+
+akash@CyberPhantom MINGW64 /c/djangoapi/djangoapi (master)
+$ cd ~/.ssh
+
+akash@CyberPhantom MINGW64 ~/.ssh
+$ ls
+known_hosts
+
+akash@CyberPhantom MINGW64 ~/.ssh
+$ ssh-keygen.exe
+Generating public/private rsa key pair.
+Enter file in which to save the key (/c/Users/akash/.ssh/id_rsa):
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in /c/Users/akash/.ssh/id_rsa
+Your public key has been saved in /c/Users/akash/.ssh/id_rsa.pub
+The key fingerprint is:
+SHA256:NsWlBHY7YePT14e0Bp6qm8y5L2l0ZvlkfwFNp6XWnOg akash@CyberPhantom
+The key's randomart image is:
++---[RSA 3072]----+
+|        o.* o .  |
+|       . * O + =o|
+|          O + O*=|
+|         . + =+o+|
+|        S .....  |
+|       ..o= oE . |
+|       ..= + .  .|
+|       o++  . . .|
+|       .B+.    . |
++----[SHA256]-----+
+
+akash@CyberPhantom MINGW64 ~/.ssh
+$ ls
+id_rsa  id_rsa.pub  known_hosts
+
+akash@CyberPhantom MINGW64 ~/.ssh
+$ cat id_rsa.pub
+ssh-rsa 
+
+akash@CyberPhantom MINGW64 ~/.ssh
+$

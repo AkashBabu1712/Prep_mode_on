@@ -1,0 +1,27 @@
+Full Stack JAVA Developer - 
+--------------------
+
+1. Core java/Java SE
+	- Java SE stands for java standard Edition
+	- used to develop standalone/desktop applications
+
+2. Web Technologies
+3. Advance java/Java EE (Enterprise Edition)
+	- used to develop web applications
+	- Servlets
+	- JSP (Java Server pages)
+4. Frameworks
+	- Hibernate Framework
+	- Web Services
+	- Spring Framework
+		 - Spring Core/bean Module
+			- Spring JDBC
+			- Spring ORM
+			- Spring data
+
+
+5. Real time tools 
+ - Maven
+ - GitHub
+ - Lombok
+ - postman	

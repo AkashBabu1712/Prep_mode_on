@@ -1,0 +1,23 @@
+Mini Lesson: Introduction to Machine Learning
+Topic: What is Machine Learning?
+
+Objective:
+
+Understand the basic concept of machine learning.
+Differentiate between supervised and unsupervised learning.
+Agenda:
+
+Introduction
+Definition: Machine learning is a branch of artificial intelligence where computers learn from data.
+Types of Learning (4 mins):
+Supervised Learning: Uses labeled data (e.g., predicting house prices).
+Unsupervised Learning: Uses unlabeled data (e.g., clustering customers by purchasing behavior).
+Examples and Applications (2 mins):
+Real-world examples: Email spam filtering, recommendation systems, image recognition.
+Q&A and Discussion (2 mins):
+Open floor for questions and interactive discussion.
+Teaching Method:
+
+Encourage participation by asking students to provide their own examples.
+Use real-life analogies to make concepts relatable (e.g., supervised learning as a teacher-student scenario).
+Foster an interactive environment by encouraging questions and discussions throughout the lesson.
